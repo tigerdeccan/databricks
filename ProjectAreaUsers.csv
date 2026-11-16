@@ -1,0 +1,7 @@
+UserName,DisplayName,ProjectArea,Role
+pa-alice,Alice (Project A contributor),projecta,contributor
+pa-bob,Bob (Project A reader),projecta,reader
+pa-carol,Carol (Project B contributor),projectb,contributor
+pa-dave,Dave (Project B reader),projectb,reader
+pa-erin,Erin (multi-area contributor),projecta,contributor
+pa-erin,Erin (multi-area contributor),projectb,contributor
